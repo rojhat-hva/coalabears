@@ -1,0 +1,3 @@
+These bears are analyzing Angular JS source code on 
+1. angularJSversion.py = the version of angular which is used in the .json files.
+2. angularWbsitesBear.py = the url`s in the .json files 
