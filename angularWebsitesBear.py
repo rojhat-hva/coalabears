@@ -2,7 +2,7 @@ import logging
 
 from coalib.bears.LocalBear import LocalBear
 
-class angularJSversion(LocalBear):
+class angularWebsiteBear(LocalBear):
     def run(self,
             filename,
             file):
